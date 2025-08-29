@@ -101,7 +101,3 @@ This project is licensed under the MIT License.
 - Sashank Abburu
 
 
-
-This setup covers everything needed to launch your GitHub repository and accurately document your smart home IoT automation solution.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/90786489/b2053064-bf9f-485d-9688-f98358f96f8b/Final-iot-report.pdf)
